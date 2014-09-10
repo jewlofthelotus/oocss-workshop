@@ -1,0 +1,68 @@
+html {
+  background: #fcfcfc;
+  font-family: "Trebuchet MS", Arial;
+  margin: 20px 40px;
+}
+
+h1 { margin-bottom: 2em; }
+
+
+/* BEGIN SIDEBAR STYLES */
+
+.float-clear { clear: both; }
+
+.padding-top-large { padding-top: 3em; }
+
+.align-right { text-align: right; }
+
+.cont-right {
+  float: right;
+  width: 15em;
+}
+
+.cont-left {
+  float: left;
+  width: 15em;
+}
+
+.section-heading {
+  margin: 0 0 1em;
+  font-size: 1.25em;
+}
+
+.separated {
+  border-bottom: 1px solid #ccc;
+}
+
+.no-margin {
+  margin: 0;
+}
+
+.item-list {
+  padding: 0;
+  list-style: none;
+}
+
+.item-list--item {
+  margin: 1em 0;
+  padding-bottom: .5em;
+}
+
+.area-heading {
+  font-size: 1em;
+}
+
+.area-heading a {
+  color: #000;
+  text-decoration: none;
+}
+
+.area-heading a:hover {
+  color: #1c86a1;
+}
+
+.item-content {
+  margin: .5em 0;
+  font-size: .9em;
+  line-height: 1.2em;
+}

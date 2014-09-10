@@ -1,0 +1,56 @@
+html {
+  background: #fcfcfc;
+  font-family: "Trebuchet MS", Arial;
+  margin: 20px 40px;
+}
+
+h1 { margin-bottom: 2em; }
+
+
+/* BEGIN SIDEBAR STYLES */
+
+p {
+  margin: .5em 0;
+  font-size: .9em;
+  line-height: 1.2em;
+}
+
+h2 {
+  margin: 0 0 1em;
+  font-size: 1.25em;
+}
+
+h4 {
+  margin: 0;
+  font-size: 1em;
+}
+
+.sidebar {
+  float: left;
+  width: 15em;
+}
+
+.footer { padding-top: 3em; }
+
+.float--clear { clear: both; }
+
+.list--bare {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.list--underlined li {
+  margin: 1em 0;
+  padding-bottom: .5em;
+  border-bottom: 1px solid #ccc;
+}
+
+.link--primary {
+  color: #000;
+  text-decoration: none;
+}
+
+.link--primary:hover {
+  color: #1c86a1;
+}
